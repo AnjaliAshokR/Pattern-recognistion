@@ -1,6 +1,6 @@
 # Pattern Recognition
 
-This is a machine learning project that uses Python to perform pattern recognition on a dataset. The project uses unsupervised learning algorithms to identify patterns and relationships in the data.
+This is a machine learning project that uses Python to perform advanced pattern recognition on a dataset using a combination of different algorithms. The project uses supervised and unsupervised learning algorithms such as Convolutional Neural Networks (CNN), Artificial Neural Networks (ANN), and Support Vector Machines (SVM) to identify patterns and relationships in the data.
 
 ## Getting Started
 
